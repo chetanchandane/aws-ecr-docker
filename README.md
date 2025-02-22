@@ -8,6 +8,12 @@ It includes:
 ✅ Running WordPress and MySQL as Docker containers  
 ✅ Step-by-step guide to replicate the project  
 
+## 🗺️ Architecture Diagram
+
+![Architecture Diagram](assets/architecture.png)
+
+---
+
 ## 📂 Project Structure  
 
 ```
